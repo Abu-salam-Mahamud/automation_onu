@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name OLT_Manager olt_manager_exe.py

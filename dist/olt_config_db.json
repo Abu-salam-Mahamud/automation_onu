@@ -1,0 +1,57 @@
+{
+    "172.31.31.250": {
+        "0/1": {
+            "start": 101,
+            "end": 251,
+            "inc": 10,
+            "line_profile": 100,
+            "srv_profile": 100
+        },
+        "0/2": {
+            "start": 259,
+            "end": 274,
+            "inc": 1,
+            "line_profile": 100,
+            "srv_profile": 100
+        },
+        "0/3": {
+            "start": 280,
+            "end": 295,
+            "inc": 1,
+            "line_profile": 100,
+            "srv_profile": 100
+        },
+        "0/4": {
+            "start": 400,
+            "end": 415,
+            "inc": 1,
+            "line_profile": 100,
+            "srv_profile": 100
+        }
+    },
+    "172.31.31.226": {
+        "0/0": {
+            "start": 2120,
+            "end": 2135,
+            "inc": 1,
+            "line_profile": 10,
+            "srv_profile": 10
+        },
+        "0/1": {
+            "start": 2150,
+            "end": 2165,
+            "inc": 1,
+            "line_profile": 10,
+            "srv_profile": 10
+        }
+    },
+    "172.31.31.62": {
+        "0/0": {
+            "start": 2000,
+            "end": 2015,
+            "inc": 1,
+            "line_profile": 10,
+            "srv_profile": 10
+        }
+    }
+}
